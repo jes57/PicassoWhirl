@@ -1,4 +1,4 @@
-package com.basementkittehs.www.simplegraphics;
+package com.garufa.picassowhirl;
 
 import android.opengl.GLSurfaceView;
 import android.content.Context;

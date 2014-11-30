@@ -1,4 +1,4 @@
-package com.basementkittehs.www.simplegraphics;
+package com.garufa.picassowhirl;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
